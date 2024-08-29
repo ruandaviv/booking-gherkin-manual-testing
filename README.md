@@ -23,7 +23,7 @@ Este projeto visa demonstrar práticas de teste manual utilizando a linguagem Gh
 
 Clone este repositório para sua máquina local usando:
 
-`git clone https://github.com/username/repository.git
+`git clone https://github.com/ruandaviv/booking-gherkin-manual-testing
 cd repository`
 
 
