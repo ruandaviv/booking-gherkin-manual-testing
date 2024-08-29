@@ -30,8 +30,8 @@ cd repository`
 ### 2. Configuração do Ambiente
 Certifique-se de ter as seguintes ferramentas instaladas:
 
-- **`Cypress/`** (ou qualquer outra ferramenta de teste se aplicável)
-- **`Jira/`** (para gerenciamento de épicos e histórias de usuário)
+- **`Cypress`** (ou qualquer outra ferramenta de teste se aplicável)
+- **`Jira`** (para gerenciamento de épicos e histórias de usuário)
 
 ### 3. Executar os Testes
 Para rodar os testes Gherkin localmente:
