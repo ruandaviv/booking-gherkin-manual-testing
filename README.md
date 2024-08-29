@@ -27,21 +27,22 @@ Clone este repositório para sua máquina local usando:
 cd repository`
 
 
-2. Configuração do Ambiente
+### 2. Configuração do Ambiente
 Certifique-se de ter as seguintes ferramentas instaladas:
 
-Cypress (ou qualquer outra ferramenta de teste se aplicável)
-Jira (para gerenciamento de épicos e histórias de usuário)
-3. Executar os Testes
+- **`Cypress/`** (ou qualquer outra ferramenta de teste se aplicável)
+- **`Jira/`** (para gerenciamento de épicos e histórias de usuário)
+
+### 3. Executar os Testes
 Para rodar os testes Gherkin localmente:
 
-Instalar Dependências:
+- **1**: Instalar Dependências:
 
 Certifique-se de que todas as dependências necessárias estão instaladas:
 
-bash
-Copiar código
-npm install
+
+`npm install`
+
 Executar Testes:
 
 Use o comando apropriado para rodar os testes:
