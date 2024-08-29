@@ -43,15 +43,14 @@ Certifique-se de que todas as dependências necessárias estão instaladas:
 
 `npm install`
 
-Executar Testes:
+- **2**: Executar Testes:
 
 Use o comando apropriado para rodar os testes:
 
-bash
-Copiar código
-npx cypress open
-Gerenciamento de Epicos e Histórias no Jira
+`npx cypress open`
+
+### Gerenciamento de Epicos e Histórias no Jira
 Para ver os épicos e histórias de usuário relacionados a este projeto, acesse o Jira e localize o projeto associado. A estrutura típica inclui:
 
-Épicos: Grandes blocos de trabalho que podem ser divididos em histórias de usuário.
-Histórias de Usuário: Tarefas específicas que devem ser concluídas para cumprir os requisitos do épico.
+- **`Épicos:`**  Grandes blocos de trabalho que podem ser divididos em histórias de usuário.
+- **`Histórias de Usuário:`** Tarefas específicas que devem ser concluídas para cumprir os requisitos do épico.
