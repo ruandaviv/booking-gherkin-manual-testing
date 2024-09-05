@@ -7,7 +7,7 @@ Este projeto visa demonstrar práticas de teste manual utilizando a linguagem Gh
 ## Estrutura do Projeto
 
 - **`tests/`**: Contém os cenários de teste escritos em Gherkin.
-- **`jira/`**: Exemplos de épicos e histórias de usuário criadas no Jira.
+- **`jira/`**: Exemplos de épicos e histórias de usuário criadas no Jira. Link para o quadro: https://rdaviv2004.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNDQzMDAzMzY5YWZkNGIwNjkyMDkyZDgyNzFiZWY0YzMiLCJwIjoiaiJ9
 - **`docs/`**: Documentação adicional sobre o projeto e instruções de uso.
 
 ## Tecnologias Utilizadas
